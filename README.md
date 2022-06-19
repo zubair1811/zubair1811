@@ -1,5 +1,5 @@
 <!-- ![Alt Text](https://github.com/kefeh/kefeh/blob/master/assets/banner.jpg) -->
-![Alt Text](https://github.com/zubair1811/zubair1811/profile/banner.png)
+[![MasterHead](https://github.com/zubair1811/profile/banner.png)]
 
 <h1 align="center">Hi 👋, I'm Muhammad Zubair Islam</h1>
 <h3 align="center">I am a Machine Learning Engineer and Researcher by profession. I am working in the field of Machine Learning and its Application since 2016. I am studying as a Master student in Information and Communication Engineering at Sejong University, Seoul, South Korea. I am right now working as Research Assistant (RA) in Mobile INtelligent Embedded Systems (MINES) Lab at Sejong University. My area of research includes Machine Learning, Computer Vision.</h3>
