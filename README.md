@@ -19,9 +19,19 @@
  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=zubair1811)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## 📫 You will find him: 
+
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="zu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="zubair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="zu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <!--   - microblogging on ![twitter](https://twitter.com/KefehCollins).
   - Networking on ![LinkedIn](https://www.linkedin.com/in/kefeh-collins/).
   - sharing his photography passion on ![instagram](https://www.instagram.com/kefscloseuplife). -->
 
-
+<!-- [website]: https://pycad.co/ -->
+<!-- [course]: https://www.udemy.com/user/pycad-2/ -->
+<!-- [youtube]: https://www.youtube.com/channel/UCdYyILlPlehK4fKS5DiuMXQ -->
+<!-- [instagram]: https://www.instagram.com/pycad_/ -->
+[linkedin]: https://kr.linkedin.com/in/mzubairislam 
