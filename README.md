@@ -18,8 +18,17 @@
 
 ## Technical Skill
 **---Linux Platform ---**
--Installation and Administration of RHEWL 6, RHEL 7, CentOS 6, CentOS 7
--
+
+- Installation and Administration of RHEWL 6, RHEL 7, CentOS 6, CentOS 7
+- Backup and restore using tool as Rsync, Zip and Tar.
+- package installation using YUM, RMP, source code (Tarball).
+- Administration of Files and Directory in terms of permissions at different user envirnment.
+- Good Knowledge of Boot Process, Runlevel, File System
+- Hands on Experience to edit files via Vi Editor.
+- Maintaining Disk space, Patition and LVM. 
+- Experience of symlink and Hardlink
+- Knowledge of compression and Archive tool (tar, zip, gz)
+- Process Monitoring 
 
 
 ## His Contribution Stats:
