@@ -3,7 +3,7 @@
 
 
 
-**Zubair** is an Machine Learning Engineer and Researcher by profession. He is working in the field of Machine Learning and its Application since 2016. Currently, he is studying as a Ph.D student in Intelligent Mechatronics Engineering at Sejong University, Seoul, South Korea. Along with study he is also working as Research Assistant (RA) in Mobile INtelligent Embedded Systems (MINES) Lab at Sejong University. Skilled in `Python`, `Machine Learning`, `Reinforcement Learning`, `Linux.
+**Zubair** is an Machine Learning Engineer and Researcher by profession. He is working in the field of Machine Learning and its Application since 2016. Currently, he is studying as a Ph.D student in Intelligent Mechatronics Engineering at Sejong University, Seoul, South Korea. Along with study he is also working as Research Assistant (RA) in Mobile INtelligent Embedded Systems (MINES) Lab at Sejong University. Skilled in `Python`, `Machine Learning`, `Reinforcement Learning`, `Linux`.
 
 
 - 🔭 He is currently working on ... **Automatic lesion segmentation in whole-body FDG-PET/CT**.
