@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/zubair1811/zubair1811/blob/main/profile/banner.jpg)
+![Alt Text](https://github.com/zubair1811/zubair1811/blob/main/profile/banner.PNG))
 <!-- ![MasterHead](https://github.com/zubair1811/zubair1811/blob/main/profile/banner.PNG) -->
 
 
